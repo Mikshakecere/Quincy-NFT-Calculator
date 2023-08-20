@@ -41,5 +41,6 @@ def main():
         exit()
 
     main()
+#i wrote all this shit in a day after finding out the equation lmfaoo code is so ez
 
 main()
